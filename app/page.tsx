@@ -11,7 +11,7 @@ export default async function Home({ searchParams }: HomeProps) {
   const capturedPage = await getCapturedPage("/", await searchParams);
   return (
     <SnapshotFrame
-      src={capturedPage?.file ?? "/snapshot.html"}
+      src={`${capturedPage?.file ?? "/snapshot.html"}?v=footer-white-20261116`}
       title={capturedPage?.title ?? "Izuire Shop"}
     />
   );

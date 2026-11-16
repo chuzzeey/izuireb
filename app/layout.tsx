@@ -6,8 +6,8 @@ export const metadata: Metadata = {
   description:
     "House Of Tife Collection — fashion, beauty, household, electronics and more. Local & abroad shipping.",
   icons: {
-    icon: "/assets/mark-hotc-orange.svg",
-    apple: "/assets/mark-hotc-orange.svg",
+    icon: "/assets/izuire-favicon.png",
+    apple: "/assets/izuire-favicon.png",
   },
 };
 
