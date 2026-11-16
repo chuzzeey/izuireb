@@ -1,0 +1,769 @@
+{
+  "source": "https://www.hotcshop.com",
+  "pages": {
+    "/": {
+      "file": "/site-capture/pages/8b0131273aa29f539328b90648c5735b2753d880fd56502b75c18c36e7e528e1.html",
+      "title": "HOTC Shop – Worldwide Online Shopping"
+    },
+    "/?availability=all": {
+      "file": "/site-capture/pages/f92d04bb1969f515b6f2995ff8cb1213170a33a7ca946deca86cc1ffc82e332d.html",
+      "title": "HOTC Shop – Worldwide Online Shopping"
+    },
+    "/?availability=available": {
+      "file": "/site-capture/pages/a48a6ce8d29664a90bf8c85ac899c4bb6e52b8c379bf439c1eb971696e3a6d27.html",
+      "title": "HOTC Shop – Worldwide Online Shopping"
+    },
+    "/?availability=oversea": {
+      "file": "/site-capture/pages/70359f0c6ab60968364deadf5665da4ccf8d231c6dd63728d11f70e946f75dd3.html",
+      "title": "HOTC Shop – Worldwide Online Shopping"
+    },
+    "/shop": {
+      "file": "/site-capture/pages/3892b0641a8133d5fb8bf7678f74836a472b6360765cf2002c0df9d2019110f2.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=all": {
+      "file": "/site-capture/pages/e2e9932ac93285302bcf1afd90dd796224dfa186f089115936ef3f82cc5285f8.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=available": {
+      "file": "/site-capture/pages/05f2039ab8dbaeecd1cc068b229911920768edb908a982202f5ffebf620350d5.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=oversea": {
+      "file": "/site-capture/pages/386c8f8b7a259a32009a2a8e4581c63bcba5febbfd3ac5474c52330283b35b0f.html",
+      "title": "Oversea – HOTC Store"
+    },
+    "/category/accessories?availability=all": {
+      "file": "/site-capture/pages/585b55e8fb18fa7cf7537084071066411fe7c403762ccbd25d75162a17e7366b.html",
+      "title": "Accessories – HOTC Store"
+    },
+    "/category/accessories?availability=available": {
+      "file": "/site-capture/pages/3be6b0c8a9ae8ef1bc6f8f99da6002052662a073d27bf1f49642d73d411131d5.html",
+      "title": "Accessories – HOTC Store"
+    },
+    "/category/accessories?availability=oversea": {
+      "file": "/site-capture/pages/5f9235337d57ddeaae11823c704bd8e361e03d984bcb5ac4bf75960e7f5334a5.html",
+      "title": "Accessories – HOTC Store"
+    },
+    "/product/2016year-toyota-corolla-16l": {
+      "file": "/site-capture/pages/291e128f291fb9c3b884ddb8c9383efb47dc5707cf0421827f3c2280a8c3e543.html",
+      "title": "2016year Toyota Corolla 1.6L – HOTC Store"
+    },
+    "/product/high-quality-kiddies-school-bags": {
+      "file": "/site-capture/pages/1258910d10d7cb9b406a979e0237cc844b0e11122a9e4e1ca9e6512dbf7739f1.html",
+      "title": "High quality Kiddies school bags – HOTC Store"
+    },
+    "/category/electronics?availability=available": {
+      "file": "/site-capture/pages/ec49617f8736f47368ade7791f4aaccffc8eab9305f45ebf041071358a11a070.html",
+      "title": "Electronics – HOTC Store"
+    },
+    "/category/electronics?availability=all": {
+      "file": "/site-capture/pages/d53a931aecc7d2aa3a52a6c130a260b62c57a60afd84eb6d8ee7e81c1b07ae32.html",
+      "title": "Electronics – HOTC Store"
+    },
+    "/category/electronics?availability=oversea": {
+      "file": "/site-capture/pages/4b28dd5573e135377c69c92b1a2062a63ae3cf199a9c9a7836d63fa66bef0b13.html",
+      "title": "Electronics – HOTC Store"
+    },
+    "/category/available-goods?availability=oversea": {
+      "file": "/site-capture/pages/4bbea7c166e9895da61e2667fe727db2b5217c0976e37729381ac6f01a7fc49d.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/category/available-goods?availability=all": {
+      "file": "/site-capture/pages/a64f9512491ea8fe1f969abee0460eb14cd7babdd74407883a766bdbb7692be6.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/category/available-goods?availability=available": {
+      "file": "/site-capture/pages/41ba8503dea181e3e55dff3ddbe0b99ad4288cd30c849caa952372b7b51634f3.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/category/groceries?availability=available": {
+      "file": "/site-capture/pages/8976cc617ec2b243c1c68c476afded7a23ef281dca6f5bdcc27e0002ba7ffb87.html",
+      "title": "Groceries – HOTC Store"
+    },
+    "/category/groceries?availability=all": {
+      "file": "/site-capture/pages/62f2e96e1e16e8530f4948069cb67385c02557d5c19be2883fd7370cdf9dfefa.html",
+      "title": "Groceries – HOTC Store"
+    },
+    "/category/groceries?availability=oversea": {
+      "file": "/site-capture/pages/bd2a0f231843c57addc8448d7e39b5ff2854a405e8a5cfc6cc6cef08c6e9792f.html",
+      "title": "Groceries – HOTC Store"
+    },
+    "/product/automatic-swallow-maker": {
+      "file": "/site-capture/pages/897d45f9273bb0c7a044cea311c75145a59066b5b243699171bc55136b9470c2.html",
+      "title": "Automatic Swallow maker – HOTC Store"
+    },
+    "/product/children-poka-dots-top": {
+      "file": "/site-capture/pages/d1a479ffaf5828be01f341ed0a5f12e0032d9f76ebbc7966371207fbe9927367.html",
+      "title": "Children poka dots top – HOTC Store"
+    },
+    "/category/hair?availability=available": {
+      "file": "/site-capture/pages/7051fa4963504718b3b8de3195a528a020eca0d3b4bbda63d823ee6d688e795b.html",
+      "title": "Hair – HOTC Store"
+    },
+    "/category/hair?availability=all": {
+      "file": "/site-capture/pages/19ea86852e45b752093726a6d777caf2184960d5053e23455fc8319ddbaf57ed.html",
+      "title": "Hair – HOTC Store"
+    },
+    "/category/hair?availability=oversea": {
+      "file": "/site-capture/pages/5130e8f602a293cdcff85b57185987266ea214a9e55867535b578c1ca36de7c1.html",
+      "title": "Hair – HOTC Store"
+    },
+    "/product/rechargeable-fan-with-bulb-and-remote": {
+      "file": "/site-capture/pages/9d6108cb2fc461bc26dcd8cede220b5cc8eb24c806c42e28ac3b73828c783375.html",
+      "title": "18 inches Rechargeable Fan with bulb and remote – HOTC Store"
+    },
+    "/category/beauty-health?availability=oversea": {
+      "file": "/site-capture/pages/10319921c896a8f93899f3ec9767314db8cfa77dbb39c7aea6537bda8c4e4c96.html",
+      "title": "Beauty Health – HOTC Store"
+    },
+    "/category/beauty-health?availability=all": {
+      "file": "/site-capture/pages/f7ab16406ab0755bfeda20c5cb14d3931b644ac19b42c750e6df0b062da5f62f.html",
+      "title": "Beauty Health – HOTC Store"
+    },
+    "/category/beauty-health?availability=available": {
+      "file": "/site-capture/pages/4ede4d0051f7a8cf44cd272c974cc09997afb8f0592f0b7595706dfd52eb1cea.html",
+      "title": "Beauty Health – HOTC Store"
+    },
+    "/product/flip-phone": {
+      "file": "/site-capture/pages/bbb5cdcfba08af95fa57cfeab7ede94fb3d474ceee57f6a5ed9b5f58c9cb7c15.html",
+      "title": "Flip phone – HOTC Store"
+    },
+    "/category/children-cloths-and-accessories?availability=all": {
+      "file": "/site-capture/pages/131cd4fcb6e69c53a0dcff79fc31773a5a3ae628e6584c8b12e8530d6c5cefe0.html",
+      "title": "Children Cloths and Accessories – HOTC Store"
+    },
+    "/category/children-cloths-and-accessories?availability=available": {
+      "file": "/site-capture/pages/556f3a154ff39e8af612198ed32bcc0c7eaad30c4bf369022424762ddfad1bec.html",
+      "title": "Children Cloths and Accessories – HOTC Store"
+    },
+    "/category/children-cloths-and-accessories?availability=oversea": {
+      "file": "/site-capture/pages/91da9ac11c7e8a93eb32a02b8660f3b829e317c3b03ac3e18126425a975bcbb3.html",
+      "title": "Children Cloths and Accessories – HOTC Store"
+    },
+    "/product/children-blue-jeans": {
+      "file": "/site-capture/pages/1be8cc83f69fe750a449a26d90a02f067f8a848a62cb1e9ffb07a12fe4221d77.html",
+      "title": "Children blue jeans – HOTC Store"
+    },
+    "/product/ladies-top-bra-gym-wear": {
+      "file": "/site-capture/pages/27e5ed85374bf67439c40672e131f34ee79e10ea4d62537b078d9bea9901a8a6.html",
+      "title": "Ladies top bra gym wear – HOTC Store"
+    },
+    "/product/ladies-gown-1012": {
+      "file": "/site-capture/pages/d97256aade0d0edea93de7ad98e921d7c9d0199d8f2e1714b07ab6b2c2401b15.html",
+      "title": "Ladies gown 10/12 – HOTC Store"
+    },
+    "/product/3in1-bushymix-gemat-blender-shipping-fees": {
+      "file": "/site-capture/pages/a4ff768ccace7bdef7145024956fbf7757fcc57ad4bcbd542ddd98e5a7f2afd5.html",
+      "title": "3in1 Buchymix Gemat Blender – HOTC Store"
+    },
+    "/product/50000-mah-power-bank-orange": {
+      "file": "/site-capture/pages/5db7ab6c713e54a898eabd1b964c8f67636fb6992c5f5752123df7590f60dce1.html",
+      "title": "50,000 MAH Power Bank- Orange – HOTC Store"
+    },
+    "/category/kitchen-utensils?availability=all": {
+      "file": "/site-capture/pages/3023afa8779f931555113b4f3511b0dbf29fc6bdf42a407f7956d9674bc7a252.html",
+      "title": "Kitchen Utensils – HOTC Store"
+    },
+    "/category/kitchen-utensils?availability=available": {
+      "file": "/site-capture/pages/27a3208081e13bf6e1ae8c2ebe1711c60a3aae267d28c8a106eadc27f8fb7862.html",
+      "title": "Kitchen Utensils – HOTC Store"
+    },
+    "/category/kitchen-utensils?availability=oversea": {
+      "file": "/site-capture/pages/a9c9b698ac3213c2d7b82736673f6f52ab2079a502252c62a966242860c8cfde.html",
+      "title": "Kitchen Utensils – HOTC Store"
+    },
+    "/product/children-bum-shot": {
+      "file": "/site-capture/pages/cb3dc0d9fc8ae5ff296021c3a8dd6c8bdd04063411b31ba0d67e2b29d0452eb7.html",
+      "title": "Children bum shot – HOTC Store"
+    },
+    "/category/fashion?availability=oversea": {
+      "file": "/site-capture/pages/a946d69a846baa118ec013b874a97445f8f70e10c841d0cfd19d26a3d91085df.html",
+      "title": "Fashion – HOTC Store"
+    },
+    "/category/fashion?availability=all": {
+      "file": "/site-capture/pages/1d3c74e9c84f76fd552c7e70b131314ad69cff3c42612af218fe781bd027616b.html",
+      "title": "Fashion – HOTC Store"
+    },
+    "/category/fashion?availability=available": {
+      "file": "/site-capture/pages/3b7bb72f2551767c8513e6ece6123b804e730fce82d5c2b613769ce32061fc76.html",
+      "title": "Fashion – HOTC Store"
+    },
+    "/category/home-decor?availability=available": {
+      "file": "/site-capture/pages/7de15f1b355a753df550bd5883499cdc92ba6c0f98603f1e301e3ccbef8cd2d2.html",
+      "title": "Home Decor – HOTC Store"
+    },
+    "/category/home-decor?availability=all": {
+      "file": "/site-capture/pages/fe2b0d2f10522cab3f4b330cd263c8c54ec59039fcf5421342f1dddd37b7af74.html",
+      "title": "Home Decor – HOTC Store"
+    },
+    "/category/home-decor?availability=oversea": {
+      "file": "/site-capture/pages/da8257954ca3e516bec02a1235464f73a797226600c10e56dde5ebc44edbf1a5.html",
+      "title": "Home Decor – HOTC Store"
+    },
+    "/product/edit-top-loader-10kg-automatic-washing-machine": {
+      "file": "/site-capture/pages/728409a182626180d5dbd4ed805a4d2ed96b2da865a3e3053f48188e6e12757d.html",
+      "title": "Top Loader 10kg Automatic Washing Machine – HOTC Store"
+    },
+    "/product/ladies-gown": {
+      "file": "/site-capture/pages/adc52e5d607ea568d3458f37368cf9b71f4f4771834070c952c78b90e42857d5.html",
+      "title": "ladies gown – HOTC Store"
+    },
+    "/category/food-stuffs?availability=oversea": {
+      "file": "/site-capture/pages/46f9996e66fd82c86e50e8842d9200ed4985c52f4d990a6f5f6d4b8c71b6c16b.html",
+      "title": "Food Stuffs – HOTC Store"
+    },
+    "/category/food-stuffs?availability=all": {
+      "file": "/site-capture/pages/87ad96961382b56b6c3ebecc3f9f2a167490e82433efe5ab2bc6d3216f94913e.html",
+      "title": "Food Stuffs – HOTC Store"
+    },
+    "/category/food-stuffs?availability=available": {
+      "file": "/site-capture/pages/3f7bfd249ab6b232c29dd909dd7c497f8ff61e4e3297e3fbf90fa8d747938f90.html",
+      "title": "Food Stuffs – HOTC Store"
+    },
+    "/product/68lter-hoffmans-electric-kettle": {
+      "file": "/site-capture/pages/f5d370728ce58d6bd3dbcbd1cb868a01f561b60743fd9fcde848c26683c47b0f.html",
+      "title": "6.8lter hoffmans electric kettle – HOTC Store"
+    },
+    "/category/cars?availability=all": {
+      "file": "/site-capture/pages/8fb030348d528778d26e0d3c313bebc3010b439c2115397cb1af505c4b19aeb8.html",
+      "title": "cars – HOTC Store"
+    },
+    "/category/cars?availability=available": {
+      "file": "/site-capture/pages/b4233f268cd5d9b0318b437bdff4bdbaaf83386921d123633eed7cf1baca9e5f.html",
+      "title": "cars – HOTC Store"
+    },
+    "/category/cars?availability=oversea": {
+      "file": "/site-capture/pages/6b42970c64186d18efa144fe4a4aed779b086a543d24c0afe15bba258bfa3299.html",
+      "title": "cars – HOTC Store"
+    },
+    "/product/collagen-supplement": {
+      "file": "/site-capture/pages/4efece1303de3b111814da8e57ea3324b26a1ae6d1c5b63d5427dcb6761088e8.html",
+      "title": "Collagen supplement – HOTC Store"
+    },
+    "/product/children-leggings": {
+      "file": "/site-capture/pages/6587c6e605a99eb7447744f37fbb727ab983d39064f8203c45dbd675faa86fbf.html",
+      "title": "Children leggings – HOTC Store"
+    },
+    "/product/hoffmans-high-quality-juicer": {
+      "file": "/site-capture/pages/17c49d196e575a347e1b3d7d4ae474d4b8864823fcaa8e5f703bedc4f7a9b0bd.html",
+      "title": "Hoffmans high quality juicer – HOTC Store"
+    },
+    "/product/clothes-hanger": {
+      "file": "/site-capture/pages/6e65122f64ce4247369f0308581cc77d409ebe74f3ba978c6928363f8e27e969.html",
+      "title": "Clothes Hanger – HOTC Store"
+    },
+    "/product/healthy-cookware-ceramic-coating-non-stick-pots": {
+      "file": "/site-capture/pages/d9905a21b4f38ecb75a119a069eab8acf679c76244c372f0b6447e4dd74a4546.html",
+      "title": "Healthy cookware ceramic coating Non stick pots – HOTC Store"
+    },
+    "/product/ladies-white-leggings": {
+      "file": "/site-capture/pages/36a515adb1fc0904682d9cf2be63c58b71d088417508b64543eef4b8e3a0695b.html",
+      "title": "Ladies white leggings – HOTC Store"
+    },
+    "/product/children-short-skirt-green": {
+      "file": "/site-capture/pages/a850c00b1f83523c550681df3021c9a3373cba71bdbefe146e7c21d0b2436b29.html",
+      "title": "Children short skirt – HOTC Store"
+    },
+    "/product/raff-6liters-food-processors%20.": {
+      "file": "/site-capture/pages/cb87d1d8c02e2b6521a522ac6074623378eb93248b357bdd320eea40e750b2e7.html",
+      "title": "Raff 6liters food processors . – HOTC Store"
+    },
+    "/product/50000-mah-power-bank": {
+      "file": "/site-capture/pages/4e9bf796b4b5eb9dd310842a94321960a7f55c5bb68d1fef6df8e9640c00e944.html",
+      "title": "50,000 MAH Power Bank – HOTC Store"
+    },
+    "/product/2-face-table-gas-burner": {
+      "file": "/site-capture/pages/16a00c4b82a8151b46c115bfb7b0eb387f45ea043865eae86655a67998a3d534.html",
+      "title": "2 face table gas burner – HOTC Store"
+    },
+    "/product/children-short-nicker-age-810": {
+      "file": "/site-capture/pages/45f8e5e55a042c48df43514713239bf3895aaf7ff6b51259d8338ae8561060bd.html",
+      "title": "Children short nicker age 8/10 – HOTC Store"
+    },
+    "/product/dr-davey-kojic-acid": {
+      "file": "/site-capture/pages/81012877244abfd04853b89f07e8f94aa28d52d408a236ac6d4f310ea305e6b1.html",
+      "title": "Dr davey kojic Acid – HOTC Store"
+    },
+    "/product/intelligent-human-body-induction-stairs-case-light-32-steps": {
+      "file": "/site-capture/pages/d30fbeb945764fee9d02364c8e1eb63ec7aa3bc02928d3f816c294162e269004.html",
+      "title": "Intelligent Human Body Induction Stairs Case Light 32 Steps – HOTC Store"
+    },
+    "/product/studentscamp-electric-pot-cooker": {
+      "file": "/site-capture/pages/553ce41680bfdac1134142d964c3ef8f83b8023cd0aaf69e15508662fa7a1446.html",
+      "title": "Students/Camp Electric pot Cooker – HOTC Store"
+    },
+    "/product/portable-hand-bag": {
+      "file": "/site-capture/pages/98da18be578d233d7ceedb5044a337e43b9c6ca87c01f078b42ce4bd0c12a301.html",
+      "title": "Portable hand bag – HOTC Store"
+    },
+    "/product/collagen-supplement-p": {
+      "file": "/site-capture/pages/30a9442a6d31b405cdf9069bf98210d7d2e86716119c999aa58434229bb67264.html",
+      "title": "Collagen supplement . – HOTC Store"
+    },
+    "/product/healthy-cookware-ceramic-coating-non-stick-pots-p": {
+      "file": "/site-capture/pages/2273baafe6cadd51a37837d7b7804e1123e475eaa5b1c510bc8cc07a8b0d5e34.html",
+      "title": "Healthy cookware ceramic coating Non stick pots p – HOTC Store"
+    },
+    "/product/2024year-changan-uniz-plug-in-hybrid-price": {
+      "file": "/site-capture/pages/380f1363f1a4d6189fb5b1b456bb02eeb75f7a262e329da6f55ec76aebf7ebcc.html",
+      "title": "2024year Changan uniz plug in hybrid price – HOTC Store"
+    },
+    "/product/automatic-swallow-maker-p": {
+      "file": "/site-capture/pages/7c13e1fae0e8004514862e59765e8648c7387f926467b7e31f41b8acada1a043.html",
+      "title": "Automatic Swallow maker . – HOTC Store"
+    },
+    "/product/hoffmans-high-quality-juicer-p": {
+      "file": "/site-capture/pages/e64675374936debcc1e603bdaabc3801c9ad54529de1623e7bb5bf9f5cfcff78.html",
+      "title": "Hoffmans high quality juicer . – HOTC Store"
+    },
+    "/product/top-loader-10kg-automatic-washing-machine": {
+      "file": "/site-capture/pages/0acae8b8568f3b0c4af7b6776bfad7bdebbc8d2e72f32cb38a32a438c0cc7800.html",
+      "title": "Top Loader 10kg Automatic Washing Machine – HOTC Store"
+    },
+    "/product/glowing-skin-body-oil": {
+      "file": "/site-capture/pages/a88044a96e25e7507a8a4344ff911c47caa95f5169f2fa0758a4043a154470ef.html",
+      "title": "Glowing skin body oil – HOTC Store"
+    },
+    "/product/baby-360-rotating-car-seat": {
+      "file": "/site-capture/pages/4a379540395f8ce062a461c46d54ee0b60f0178afc25ebd11381dccf8c4621db.html",
+      "title": "Baby 360 rotating car seat – HOTC Store"
+    },
+    "/product/matelot-original-perfume": {
+      "file": "/site-capture/pages/6c0a385bacfc70a5aa68f854e7c7fa997eb57c7e7ae6b26093bc64b0682f3479.html",
+      "title": "Matelot Original perfume – HOTC Store"
+    },
+    "/product/flip-phone%20.": {
+      "file": "/site-capture/pages/7957e18f8a7ba3b0b2ab64e081f880c088e2e985b6302e958b8db8f68b376743.html",
+      "title": "Flip phone . – HOTC Store"
+    },
+    "/product/2018year-benze-c200l": {
+      "file": "/site-capture/pages/ded0d0d6054770376dd62b345852095bbe829a23bf0fa645ad66bcab55444130.html",
+      "title": "2018year benze C200L – HOTC Store"
+    },
+    "/product/quality-unisex-sneakers": {
+      "file": "/site-capture/pages/6d11022b307e32d28349f5d9454db81f58697cbd314fb9be7ea50b782fc1d64c.html",
+      "title": "Quality unisex sneakers. – HOTC Store"
+    },
+    "/product/2-face-table-gas-burner-o": {
+      "file": "/site-capture/pages/ed7325e64002e53da0e676d6a961aa50fed079324e23e81f1530de2b021bc37c.html",
+      "title": "2 face table gas burner – HOTC Store"
+    },
+    "/product/small-multipurpose-3d-conch-toothbrush-holder": {
+      "file": "/site-capture/pages/e9b5626d03554a6a6ec55dfb953cb7bad0edfe2d2230712a39f93290e584aea2.html",
+      "title": "Small Multipurpose 3d conch toothbrush holder – HOTC Store"
+    },
+    "/product/eclaire-perfume": {
+      "file": "/site-capture/pages/e95d02ca07a59b722558903e079b48f1fee4a0740a1d5e1cdfa5251212a8da5a.html",
+      "title": "Eclaire perfume – HOTC Store"
+    },
+    "/product/unisex-quality-sneakers": {
+      "file": "/site-capture/pages/97dd1d0326e94d7d9b32b3877424c89d115d411f62402bc11198299707b23f96.html",
+      "title": "Unisex quality sneakers. – HOTC Store"
+    },
+    "/product/25cm-thick-cast-iron-pot": {
+      "file": "/site-capture/pages/49e6a44a60f2354685d4d1c46920a9b850ad33cc202f5bbb6a60c91e6c275de4.html",
+      "title": "25cm Thick Cast iron pot – HOTC Store"
+    },
+    "/product/ginseng-five-treasure-tea": {
+      "file": "/site-capture/pages/8d3dfabe171eb40932b77df41886d953be8a91fdb68cebbd6c68f6fcf8e06a45.html",
+      "title": "Ginseng Five Treasure Tea – HOTC Store"
+    },
+    "/product/raff-6liters-food-processors": {
+      "file": "/site-capture/pages/74ba483fe495dc701989b0276845b819486b97ec8f5f9106d6cdf9f305f19088.html",
+      "title": "Raff 6liters food processors – HOTC Store"
+    },
+    "/shop?page=3": {
+      "file": "/site-capture/pages/a8d59187ee51e5031ed8a5341f4ba8ce3921779c054fb12e27c3ebaa83bd1388.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?page=2": {
+      "file": "/site-capture/pages/65bd32288704333edca7470ca5a9c1069167e5aeff433587e0a8d93454ab9364.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=all&page=6": {
+      "file": "/site-capture/pages/278892a4f8b23e671e4aea898e32f8c6d971592a14dc5aadecb629bc0d6241c6.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=all&page=5": {
+      "file": "/site-capture/pages/00dfc0be245ff9c6a7d3e97aad888fae425dfaa79d98c22c9ff8d5d0e89a39b4.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=all&page=4": {
+      "file": "/site-capture/pages/b53d7a46d9d7f399df3fb14ee55dc8e3391b8c452c129078c7e3a985abde1f56.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=all&page=3": {
+      "file": "/site-capture/pages/e63bae2157d53c900b190d3dc9bb85d2921eb704b7ef703cd957072eb95334ba.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=all&page=2": {
+      "file": "/site-capture/pages/1ba82431bc5ad45fd0a303b5da0f8963f3cb3c1b307cbf22cc3b4c2d83540e7e.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=available&page=3": {
+      "file": "/site-capture/pages/f63a2ad67e240470351e6f90a9a1bd95161cff34c129e7b5a6afc7a9365ad7aa.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=available&page=2": {
+      "file": "/site-capture/pages/5b9ff93ab6424c1e963303d27d646f143f8f76631be5d003d9a58cf08ce54688.html",
+      "title": "Available – HOTC Store"
+    },
+    "/product/men-shirt-2": {
+      "file": "/site-capture/pages/e30834a7fa6036cbb8070490efef58b12739526f7ce3fb451956f365eda5f32f.html",
+      "title": "Men Shirt – HOTC Store"
+    },
+    "/shop?availability=oversea&page=3": {
+      "file": "/site-capture/pages/9d74e2a7469c1fc6c4d30f91676f80d60d674be6c82b730c72746822a822de7f.html",
+      "title": "Oversea – HOTC Store"
+    },
+    "/product/granite-cast-iron-pot": {
+      "file": "/site-capture/pages/bb2cfd3646cafc2fb01c73622c94eedc087ddb0ecac8efa697d9c22ede55ca46.html",
+      "title": "Granite Cast Iron Pot – HOTC Store"
+    },
+    "/product/single-egg-roll-baking-pan-waffle-machine": {
+      "file": "/site-capture/pages/b3fa262133cd8b6ea060373141b21f16264f7ef94cc88fbc9bfa38feb1fb5537.html",
+      "title": "Single Egg Roll Baking Pan Waffle Machine – HOTC Store"
+    },
+    "/product/enamel-cast-iron-7in1-pot": {
+      "file": "/site-capture/pages/005ac62cf9c44bb0e8f46c621fc28adcc7a862ae6975e5896482851b74967b29.html",
+      "title": "Enamel Cast Iron 7in1 Pot – HOTC Store"
+    },
+    "/product/4-in-1-waffle-machine": {
+      "file": "/site-capture/pages/b61a29f8f53f77fb815da95712e5b8e76a33f53abd9fdca5ff32d436c6c5880d.html",
+      "title": "4 in 1 Waffle Machine – HOTC Store"
+    },
+    "/product/5in1-non-stick-pot": {
+      "file": "/site-capture/pages/1a1d6de896d5dfee9de0e59a5e22972f61f2260e114ba4629c1c8feee56631e2.html",
+      "title": "5in1 Non Stick Pot – HOTC Store"
+    },
+    "/shop?availability=oversea&page=2": {
+      "file": "/site-capture/pages/3ca57b6b3d524dd48e5db2419448fe675514cec96d57ab0b19977320fa6d6ed5.html",
+      "title": "Oversea – HOTC Store"
+    },
+    "/product/6-pieces-aluminum-pot-set": {
+      "file": "/site-capture/pages/99c45c5792111c946eaaad6e1832a03ad85dbd8f71e6c7b288a2c563277a2f1c.html",
+      "title": "6 Pieces Aluminum Pot Set – HOTC Store"
+    },
+    "/product/single-egg-waffle-machine-baking-pan": {
+      "file": "/site-capture/pages/6ac7174caa3f6a8061179f4518346e2f782ac7ec20ea2579f909398b16c48d30.html",
+      "title": "Single Egg Waffle Machine Baking Pan – HOTC Store"
+    },
+    "/product/caraway-pot": {
+      "file": "/site-capture/pages/cf6bd17d21392a8ac712dc20630ba2a36359bfafa3c24a34b27b522d10e69d36.html",
+      "title": "Caraway Pot – HOTC Store"
+    },
+    "/product/jersey": {
+      "file": "/site-capture/pages/101d57d9ec4bb22e1232b83afae54b65bb92677e8688023442b2dad554023c32.html",
+      "title": "Jersey – HOTC Store"
+    },
+    "/product/waffle-iron-single-waffle-machine": {
+      "file": "/site-capture/pages/4c043999a3292f906f8dd945cc5d6fec18513576ed37c198fdf51840dfa6b496.html",
+      "title": "Waffle Iron Single Waffle Machine – HOTC Store"
+    },
+    "/product/instant-noodles": {
+      "file": "/site-capture/pages/48ff318c9234948e8594699b50b2e8b3cb44b8a4aba43835ba0255ce86194f19.html",
+      "title": "Instant Noodles – HOTC Store"
+    },
+    "/product/inflatable-lounge-chair-with-pumping-machines": {
+      "file": "/site-capture/pages/5c7ecf7783a3c40ff69d6898a90e357216ea2413081e6896b0f732332857f504.html",
+      "title": "Inflatable Lounge Chair With Pumping Machines – HOTC Store"
+    },
+    "/product/glass-cup": {
+      "file": "/site-capture/pages/dff9b3613ca9b4adeaae87c88c45c82fca66b0bcff58ad6bf8440e29f73183ac.html",
+      "title": "Glass cup – HOTC Store"
+    },
+    "/product/solar-flood-light-500w": {
+      "file": "/site-capture/pages/e5e7e1d891297f391c79c8379c449288d38ed29f8ecdc246fc3c89ef3c677bb7.html",
+      "title": "SOLAR FLOOD LIGHT 500w – HOTC Store"
+    },
+    "/product/solar-flood-street-light-800w": {
+      "file": "/site-capture/pages/737af0d0e83f022385a497cb890f47b5f870f7c5f17ab374e5ead823470eaa88.html",
+      "title": "SOLAR FLOOD STREET LIGHT 800w – HOTC Store"
+    },
+    "/product/solar-flood-light-200w": {
+      "file": "/site-capture/pages/444850f703e4c95ce0a7b3f5a5adf5e73006c89be826fe7c37831e3ab11e3657.html",
+      "title": "SOLAR FLOOD LIGHT 200w – HOTC Store"
+    },
+    "/product/solar-street-light": {
+      "file": "/site-capture/pages/efc275cb71556e77c7c5ee5462d1f18b0e199cfbb0dfbd402cab2279d5fb841e.html",
+      "title": "Solar street light – HOTC Store"
+    },
+    "/product/solar-flood-street-light-1200w": {
+      "file": "/site-capture/pages/4fbd1907ec9fdae6c53b852e582e9bf169c1c77cb65aa3629ad8afbff39cdc6e.html",
+      "title": "SOLAR FLOOD STREET LIGHT 1200w – HOTC Store"
+    },
+    "/product/solar-flood-street-light-1000w": {
+      "file": "/site-capture/pages/f43affd56aa043d55b6e608ca193b2146191ef43e400e9c01106d184f5ba0cac.html",
+      "title": "SOLAR FLOOD STREET LIGHT 1000w – HOTC Store"
+    },
+    "/product/rechargeable-fan": {
+      "file": "/site-capture/pages/b86b68f93716e64658064308f9d75ae86ed66cad00a90eb63f808fb232dc3006.html",
+      "title": "Rechargeable Fan – HOTC Store"
+    },
+    "/category/available-goods?availability=all&page=3": {
+      "file": "/site-capture/pages/0bc74750095a11c01350a6879a1e9921066806a62e370ec849c2181d0fa2d285.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/product/kiddies-ani-launch-bag": {
+      "file": "/site-capture/pages/44b212cdce84bb34109628630f35da81d531129b884a47e8075ada5eec4136c1.html",
+      "title": "kiddies Ani launch bag – HOTC Store"
+    },
+    "/category/available-goods?availability=all&page=2": {
+      "file": "/site-capture/pages/20ccb60fba17430ae41dfe05271ea7617470b9ddd01504eeef1c8e279f75604b.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/category/available-goods?availability=available&page=2": {
+      "file": "/site-capture/pages/354e9c6c73e06498a8e0586f3adab44a37bb5dbf6d57abaa4116ae6ca218e8fb.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/category/available-goods?availability=available&page=3": {
+      "file": "/site-capture/pages/8e2ec3d2a5d5752d6b66e58e0e3e92de72252699c20b4c21fb170c8dd22324c7.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/product/extra-virgin-olive-oil": {
+      "file": "/site-capture/pages/69504aa1eea1892be574c12c31e2de90574b9e05384a50f7cf3ee05447b3fc5b.html",
+      "title": "Extra Virgin Olive Oil – HOTC Store"
+    },
+    "/product/dd-vietnamese": {
+      "file": "/site-capture/pages/f6bb58e8db625cf6e78297dcb99f55da817bb5e95136a8c2637bc6fda6f83641.html",
+      "title": "DD VIETNAMESE – HOTC Store"
+    },
+    "/product/ladies-futura-wig": {
+      "file": "/site-capture/pages/5c29f59c38cb53649852f2cb739316141c557e1238690f7245833cc65494193e.html",
+      "title": "Ladies Futura wig – HOTC Store"
+    },
+    "/product/ssd-bounce-12-inch-wig": {
+      "file": "/site-capture/pages/37da3a60b19c5d218b37b967acdf31d72b7fe0c8a37566773c414eef309dedeb.html",
+      "title": "SSD Bounce 12-Inch Wig – HOTC Store"
+    },
+    "/product/raw-vietnamese": {
+      "file": "/site-capture/pages/c3aed919c08eb138408b0e0e36dcd0713fafc8164f2e2e7a583a75dd21a3c0bd.html",
+      "title": "Raw Vietnamese – HOTC Store"
+    },
+    "/product/canvas-shoulder-handbag": {
+      "file": "/site-capture/pages/b021434f827e428f89e1d428f8b03c0d93c8cee584cca13e520b0b17db98af3c.html",
+      "title": "Canvas Shoulder Handbag – HOTC Store"
+    },
+    "/product/khamrah-perfume": {
+      "file": "/site-capture/pages/b6e2e7a7f2bd9d91e06be8ad84c8f00251618edf483594a00b0514a98355a563.html",
+      "title": "Khamrah Perfume – HOTC Store"
+    },
+    "/product/powerful-detox-slimming-tea": {
+      "file": "/site-capture/pages/231289b0c1f88dac9a2ea4318039beef5300ea7d91fcce1ff91ad78365dc7960.html",
+      "title": "Powerful Detox Slimming Tea – HOTC Store"
+    },
+    "/product/premium-black-opium-perfume-4-in-1-gift-set": {
+      "file": "/site-capture/pages/ac6c9e1309fb7e17b27ee38cd914f380c67e5a98cc6fac0ac734ac902130f904.html",
+      "title": "Premium Black Opium Perfume 4 in 1 Gift Set – HOTC Store"
+    },
+    "/product/jewelry-set": {
+      "file": "/site-capture/pages/40a9c43d634270232616ea90c1112c0c2aff40d765f873daa4041e0f873b29cb.html",
+      "title": "Jewelry Set – HOTC Store"
+    },
+    "/product/young-tote-bag": {
+      "file": "/site-capture/pages/9671121d99314fe3bae060ce4672f83ede67fbc0e5251adaec417c326843137d.html",
+      "title": "Young Tote Bag – HOTC Store"
+    },
+    "/product/club-de-nuit": {
+      "file": "/site-capture/pages/8474874a54931ce79c7e0d46280a105d5ca1370103d54dbbaa8737e7e10be406.html",
+      "title": "Club de Nuit – HOTC Store"
+    },
+    "/product/children-gown-age-4-and-5yrs": {
+      "file": "/site-capture/pages/bbc8192596fe22d56f017b7c4d169ba68740b186e382504171f9c484309b721b.html",
+      "title": "Children gown age 4 and 5yrs – HOTC Store"
+    },
+    "/product/kiddies-launch-bag-high-quality-kiddies": {
+      "file": "/site-capture/pages/b968ec86d7c852c4bfba0768ebe5914b90c2a22443fefe6ca0c47fda2ab6c6ed.html",
+      "title": "Kiddies launch bag high quality kiddies – HOTC Store"
+    },
+    "/product/5-face-a-flip-gas-burner": {
+      "file": "/site-capture/pages/615dfa52a7a06a6905fa34a20eef02c3001a02a607d0943caddbd9362dde5216.html",
+      "title": "5 face a flip gas Burner – HOTC Store"
+    },
+    "/product/kitchen-sink-with-basket": {
+      "file": "/site-capture/pages/b5d59ddf5135516cf4d315c313d88a51360ea9c3d0a33dbd0d466d4fc54982c3.html",
+      "title": "Kitchen sink with basket – HOTC Store"
+    },
+    "/product/modern-kitchen-sink": {
+      "file": "/site-capture/pages/e83cc93bc72756cf925753e9b3f1588563aeb29766aadb56fe0f1bd269e75091.html",
+      "title": "Modern Kitchen sink – HOTC Store"
+    },
+    "/product/wall-mounted-kitchen-cooker-hood": {
+      "file": "/site-capture/pages/b04786ad3be7c0e83776586c4a3e43aa04f598c1b9cf1b291caf4777d105a8b3.html",
+      "title": "Wall-Mounted Kitchen Cooker Hood – HOTC Store"
+    },
+    "/product/Golden%20modern%20kitchen%20sink%20o1": {
+      "file": "/site-capture/pages/7ed0be84fca9a3c0bc4e3886ecdda59bf2584f9595bfc3f57380caf665b7327e.html",
+      "title": "Golden Modern Kitchen sink – HOTC Store"
+    },
+    "/category/kitchen-utensils?availability=all&page=2": {
+      "file": "/site-capture/pages/2ccad2ee72ad9ae026c0b3800e28b686d96dd885ec09f37dd07cf870c864c85d.html",
+      "title": "Kitchen Utensils – HOTC Store"
+    },
+    "/product/golden-modern-kitchen-sink": {
+      "file": "/site-capture/pages/ebe227463a8dc45a4318118189e40641a03d5b65da637cf88e1258c8edf3370d.html",
+      "title": "Golden Modern Kitchen sink – HOTC Store"
+    },
+    "/product/nano-black-modern-kitchen-sink-with-chopping-board": {
+      "file": "/site-capture/pages/fbe9f51b6f7eb98af9402c977f0c6f3e230b1cfdbc1f2a8d75a11856e1010d14.html",
+      "title": "Nano black modern kitchen sink with chopping board – HOTC Store"
+    },
+    "/product/5l-air-fryer": {
+      "file": "/site-capture/pages/9eed70d33f187f2b819c11acc4d2132a00df5f6d9151bc82d6426bba8421e89f.html",
+      "title": "5L Air fryer – HOTC Store"
+    },
+    "/product/6liter-air-fryer": {
+      "file": "/site-capture/pages/c50f8d9c354a273ee4ef5d5682c8446eef92f3b1433d7c1e084050b0834e84af.html",
+      "title": "6liter Air fryer – HOTC Store"
+    },
+    "/product/enamel-cast-iron-4in1-pot": {
+      "file": "/site-capture/pages/2024d60998cf5bc13c9fec4dac5da0785a15bd7c12f625bc4aa5270ec0e94a1e.html",
+      "title": "Enamel Cast Iron 4in1 Pot – HOTC Store"
+    },
+    "/product/water-bottle": {
+      "file": "/site-capture/pages/b0cfe5588b7236650bf7800c0ea0759aa97fa6b1503870d5a4377f19e1b7d29b.html",
+      "title": "Water Bottle – HOTC Store"
+    },
+    "/product/Rechargeable%20six-blade-portable-manual-blender": {
+      "file": "/site-capture/pages/425cafc4ac993fa8e2b62723c626f74e21f1f4f3de529a55a57602413984a87e.html",
+      "title": "Rechargeable Six-blade Portable Manual Blender – HOTC Store"
+    },
+    "/product/7kg-adjustable-kettlebell": {
+      "file": "/site-capture/pages/4f4e74dc250669642c37ac26bd5185229a5c005d3bb969d7869310430e0dc280.html",
+      "title": "7kg Adjustable Kettlebell – HOTC Store"
+    },
+    "/product/2litres-kettle": {
+      "file": "/site-capture/pages/a9bec307fe139850c08c57203ebc5d44b1ee662164a5fc775410c80ba56ad0cd.html",
+      "title": "2litres Kettle – HOTC Store"
+    },
+    "/product/mouse-single-waffle-machine": {
+      "file": "/site-capture/pages/5bce13fc9c382afbd4dadea6a2b7277491eecaa578aa30af469ae524cbc562ea.html",
+      "title": "Mouse Single Waffle Machine – HOTC Store"
+    },
+    "/product/men-inner-wears": {
+      "file": "/site-capture/pages/5434edafb81ccd96d764f60a600d85693984f143eb390340a74d0d8cd35e107a.html",
+      "title": "Men Inner Wears – HOTC Store"
+    },
+    "/product/men-shirt-5": {
+      "file": "/site-capture/pages/5219aa6ee6290e2a5b33299ecb5016e389ac808e77cc55b07b28eabcf3108eb4.html",
+      "title": "Men Shirt – HOTC Store"
+    },
+    "/product/mengsiying-flat-shoes": {
+      "file": "/site-capture/pages/9d5ea30b663d34e31893a8ff86d8a07c9a0a241d4aad6f811ab4e38436043e06.html",
+      "title": "Mengsiying Flat Shoes – HOTC Store"
+    },
+    "/product/men-polo-shirt": {
+      "file": "/site-capture/pages/501efc733c3fd0c6e6766fabb1110ecbf3aba3d72ce0b0bae884e80e45af7eae.html",
+      "title": "Men Polo Shirt – HOTC Store"
+    },
+    "/product/men-shirt-3": {
+      "file": "/site-capture/pages/436dbd6e3b911487ae048f23ef3d41208ddf10f69a53d1ee1d812c771d234015.html",
+      "title": "Men Shirt – HOTC Store"
+    },
+    "/product/ladies-two-pieces-pajamas": {
+      "file": "/site-capture/pages/bcff18c0116432ca0f574c80578ea5e13ec52c3e7cc8d92e14ae1b7b6e1be1e4.html",
+      "title": "Ladies Two Pieces Pajamas – HOTC Store"
+    },
+    "/product/premium-men-shirt": {
+      "file": "/site-capture/pages/f42f2052de7d5691dacf279b69c1ca2ab72a81a684cdae8f5ba0552c699e1e3b.html",
+      "title": "Premium Men Shirt – HOTC Store"
+    },
+    "/product/men-shoes": {
+      "file": "/site-capture/pages/140616ea82685c63babdb5f712609b6284b891a58fe0ef6a3c3a23e8d0fadc55.html",
+      "title": "Men Shoes – HOTC Store"
+    },
+    "/product/men-long-sleeve-sweater-set": {
+      "file": "/site-capture/pages/05b08bf490df614492f8adee13c36f524f19ae2b617cd4afe01c05031a5a705c.html",
+      "title": "Men Long Sleeve Sweater Set – HOTC Store"
+    },
+    "/product/womens-heel-sandals": {
+      "file": "/site-capture/pages/21731bfd6b1df773db2650f602ea8a198886270eb6d48ec5142e6b4eef397961.html",
+      "title": "Womens Heel Sandals – HOTC Store"
+    },
+    "/product/men-shirt-4": {
+      "file": "/site-capture/pages/bd912e081143e37552f41dd5c841f3428eff63f9df3f953efbf09a0de4f53a24.html",
+      "title": "Men Shirt – HOTC Store"
+    },
+    "/product/maternity-jeans": {
+      "file": "/site-capture/pages/eff084ea099887fc11b939dd3c19b93e0b9fc0e309c3bee6530f5a53d811c77a.html",
+      "title": "Maternity jeans – HOTC Store"
+    },
+    "/product/ladies-white-trouser": {
+      "file": "/site-capture/pages/a4cd3f8cb4c7e2cbdf95d938aff04000cf413254a938b7007a29a9400f3bd2fb.html",
+      "title": "Ladies white trouser – HOTC Store"
+    },
+    "/product/Christmas-pajamas": {
+      "file": "/site-capture/pages/bc74743ddae5de026d0e3b3746c25046111b3be57602ca60350098cda488faa4.html",
+      "title": "Christmas pajamas – HOTC Store"
+    },
+    "/product/basic-top": {
+      "file": "/site-capture/pages/124566d2eb1795bb8cb267ecd06505d6859f13fe9579d259221d0c6fe0fc428d.html",
+      "title": "Basic top – HOTC Store"
+    },
+    "/product/unisex-white-and-blue-top": {
+      "file": "/site-capture/pages/8608db3454d399cc17da58a08422ab419e8bee32e8a848f4ccd898df9dffcad8.html",
+      "title": "Unisex white and blue top – HOTC Store"
+    },
+    "/category/fashion?availability=all&page=2": {
+      "file": "/site-capture/pages/c7dcee3e972ef94f977244b641930436d0ecbd06dbfbc2c4f4e1b0e621e4f163.html",
+      "title": "Fashion – HOTC Store"
+    },
+    "/product/men-chinos": {
+      "file": "/site-capture/pages/983dd9dc2d00c77f1c75052022ab30edb565ae8fea12bd91d163eb6bcb576fa3.html",
+      "title": "Men chinos – HOTC Store"
+    },
+    "/product/unisex-hoodies": {
+      "file": "/site-capture/pages/493823fd25e197e65eb65e0e2cfbaf4a90742053a2408aa89b40b2241da443c0.html",
+      "title": "Unisex hoodies – HOTC Store"
+    },
+    "/product/ladies-white-jeans-trouser": {
+      "file": "/site-capture/pages/4424fa539f0e9c15406994b3e67a849f9e9b3a21bfe4c88130749ecf272454a9.html",
+      "title": "Ladies white jeans trouser – HOTC Store"
+    },
+    "/product/ladies-armless-top-with-scarf": {
+      "file": "/site-capture/pages/334a477f277ae5f92acae3042ee1bd5729613059d5455aa9e610ed31d75e1fe2.html",
+      "title": "Ladies armless top with scarf – HOTC Store"
+    },
+    "/product/orthopedic-mattress": {
+      "file": "/site-capture/pages/25909881a8bcaef288d2917e06cecf65c3db0352705315d9fc44cec0bc159929.html",
+      "title": "Orthopedic Mattress – HOTC Store"
+    },
+    "/product/high-quality-basmati-rice": {
+      "file": "/site-capture/pages/f3ee86feb058887e47670003bb8164d1700dc5819907c00e36947432b1904562.html",
+      "title": "High Quality Basmati Rice – HOTC Store"
+    },
+    "/shop?page=1": {
+      "file": "/site-capture/pages/827cd21670debd12f5dc00e6c4df0bad7d44b8d987333391ffafdb8f789afcb1.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=all&page=1": {
+      "file": "/site-capture/pages/881b036e00bf68b65406a09587333b6fdf12778e3f2c6f22998640f07cacbb84.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=available&page=1": {
+      "file": "/site-capture/pages/4b176ab53d8c3a313a656e0fd1fbe5c2447702c39f4bff11cefece1e3ee89e8d.html",
+      "title": "Available – HOTC Store"
+    },
+    "/shop?availability=oversea&page=1": {
+      "file": "/site-capture/pages/62f6861f848827e976bb44599f44338260db800db3dcf30e39a0eb8fff7ae658.html",
+      "title": "Oversea – HOTC Store"
+    },
+    "/category/available-goods?availability=all&page=1": {
+      "file": "/site-capture/pages/3d48d71da0690c7edb5a053737c6bfa289b538c7372d0b81ea7c860b6253c1bf.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/category/available-goods?availability=available&page=1": {
+      "file": "/site-capture/pages/7ed2f92b815c777e9b50de9bd80fd03296c6ae38650ef4e2fa8b37ca7acad09f.html",
+      "title": "Available Goods – HOTC Store"
+    },
+    "/category/kitchen-utensils?availability=all&page=1": {
+      "file": "/site-capture/pages/7b64ca59a2d702c326e62a6929de12854a7891c857698909ac1e92ac53643765.html",
+      "title": "Kitchen Utensils – HOTC Store"
+    },
+    "/category/fashion?availability=all&page=1": {
+      "file": "/site-capture/pages/1f3fc82d06dc655b6665913370ad969324164dcf4dba3f752ab71482768f2c93.html",
+      "title": "Fashion – HOTC Store"
+    }
+  }
+}
